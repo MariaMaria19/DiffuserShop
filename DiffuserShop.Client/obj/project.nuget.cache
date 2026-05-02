@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTIq1aeTdKQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Мария\\Desktop\\пиш\\3 курс\\2 семак\\луканов\\DiffuserShop\\DiffuserShop.Client\\DiffuserShop.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Мария\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

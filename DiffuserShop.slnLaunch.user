@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "DiffuserShop.Server\\DiffuserShop.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DiffuserShop.Client\\DiffuserShop.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

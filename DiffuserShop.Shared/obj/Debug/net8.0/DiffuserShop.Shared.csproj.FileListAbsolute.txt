@@ -1,0 +1,11 @@
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\bin\Debug\net8.0\DiffuserShop.Shared.deps.json
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\bin\Debug\net8.0\DiffuserShop.Shared.dll
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\bin\Debug\net8.0\DiffuserShop.Shared.pdb
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\DiffuserShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\DiffuserShop.Shared.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\DiffuserShop.Shared.AssemblyInfo.cs
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\DiffuserShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\DiffuserShop.Shared.dll
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\refint\DiffuserShop.Shared.dll
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\DiffuserShop.Shared.pdb
+C:\Users\Мария\Desktop\пиш\3 курс\2 семак\луканов\DiffuserShop\DiffuserShop.Shared\obj\Debug\net8.0\ref\DiffuserShop.Shared.dll
